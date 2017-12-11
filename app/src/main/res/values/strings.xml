@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AgendaXimo</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Nom de usuari</string>
+    <string name="prompt_password">Contrasenya</string>
+    <string name="action_sign_in">Entra</string>
+    <string name="action_sign_in_short">Entra</string>
+    <string name="error_invalid_email">El usuari no existeix</string>
+    <string name="error_invalid_password">La contrasenya es massa curta</string>
+    <string name="error_incorrect_password">La contrasenya no és correcta</string>
+    <string name="error_field_required">Aquest camp és necessari</string>
+    <string name="permission_rationale">"Es necessiten permisos de accès als contactes per fer l'autompleció
+    </string>
+    <string name="title_activity_agenda">agenda</string>
+</resources>
